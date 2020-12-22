@@ -1,3 +1,3 @@
-#!/usr/bin/venv python
+#!/usr/bin/env python
 
 import scapy.all as scapy
